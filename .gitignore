@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node.js dependencies
+node_modules/
+
+# React production build
+frontend/build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE settings
+.vscode/
+backend/instance/
